@@ -1,2 +1,2 @@
 # odin-landingpage
-HTM and CSS Landingpage made with FLEX
+HTML and CSS Landingpage made with FLEX
